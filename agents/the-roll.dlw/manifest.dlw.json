@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Roll",
+  "universe": "D20 · The Roll (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Roll:D20:4c144f⟧",
+  "carbon": "the-roll.carbon.tiff (TIFF)",
+  "silicon": "the-roll.silicon.png (PNG)",
+  "seal_sha256": "9ec8f5827d02a28e5838edc1a3ad86c49cb0f59e17d69ff52ed129158a3b090e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Platonic Solids",
+  "universe": "D20 · The Platonic Solids (techne)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Platonic Solids:D20:dc0bb1⟧",
+  "carbon": "the-platonic-solids.carbon.tiff (TIFF)",
+  "silicon": "the-platonic-solids.silicon.png (PNG)",
+  "seal_sha256": "36673f1bb48ca36ccead66a6bda1a340495f2db793e056a3c3173ebf1c48452c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

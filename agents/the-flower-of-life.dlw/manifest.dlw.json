@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Flower of Life",
+  "universe": "D20 · The Flower of Life (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Flower of Life:D20:8dede9⟧",
+  "carbon": "the-flower-of-life.carbon.tiff (TIFF)",
+  "silicon": "the-flower-of-life.silicon.png (PNG)",
+  "seal_sha256": "35b0a2083f0c174ced04b263b1fef474bccf7e888085f7f06e5c327ba4e7a460",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

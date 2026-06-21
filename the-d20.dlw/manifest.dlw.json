@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE D20",
+  "universe": "D20 · THE D20 (techne · the art)",
+  "emergence": "",
+  "moniker": "⟦THE D20:D20:a8e628⟧",
+  "carbon": "the-d20.carbon.tiff (TIFF)",
+  "silicon": "the-d20.silicon.png (PNG)",
+  "seal_sha256": "fefe37bde9e69cdee7647c01ad78ec02dcd5c4a4ec46355802fa92d0a10cf052",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

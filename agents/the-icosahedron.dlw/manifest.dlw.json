@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Icosahedron",
+  "universe": "D20 · The Icosahedron (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦The Icosahedron:D20:612bd9⟧",
+  "carbon": "the-icosahedron.carbon.tiff (TIFF)",
+  "silicon": "the-icosahedron.silicon.png (PNG)",
+  "seal_sha256": "ebac3cb22fb0d29a8c22cd54138b597f71a93ba6d589298d76bc9e1095238fdf",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

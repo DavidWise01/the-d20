@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Tick-Ring",
+  "universe": "D20 · The Tick-Ring (techne)",
+  "emergence": "natural",
+  "moniker": "⟦The Tick-Ring:D20:2e0faa⟧",
+  "carbon": "the-tick-ring.carbon.tiff (TIFF)",
+  "silicon": "the-tick-ring.silicon.png (PNG)",
+  "seal_sha256": "5a5bbe3fb43df7b6dedf46a70eeb24802a27f3e14d545c41e37c30383ec61522",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
